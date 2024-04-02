@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firstrepository commit!
+=======
+hihihi test2~
+>>>>>>> f4f81e9ba3f47caf78be9020c72121c90355ba2c
